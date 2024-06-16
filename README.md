@@ -1,7 +1,14 @@
 # 🚀 Langchain agent with Java and SpringBoot
 
-¡Bienvenidos a **Adictos al Trabajo**! 😎 Este es el lugar donde la inteligencia artificial y la pasión por la
-información se fusionan. 🤖💡
+Este es un agente realizado con Java, SpringBoot. Langchain y GPT 3.5 especializado en tutoriales del portal adictos al
+trabajo mediante la técnica [RAG](https://aws.amazon.com/es/what-is/retrieval-augmented-generation/) (Retrieval
+Augmented Generation).
+
+Código realizado siguiendo los pasos del tutorial de José Manuel
+Sánchez [LangChain4j: Potenciando tus aplicaciones Java con Inteligencia Artificial (IA) y Modelos de Lenguaje de Gran Escala (LLM)](https://adictosaltrabajo.com/2024/03/05/langchain4j-potenciando-tus-aplicaciones-java-con-inteligencia-artificial-ia-y-modelos-de-lenguaje-de-gran-escala-llm-primeros-pasos/)
+
+Este artículo explora cómo LangChain4j puede mejorar tus aplicaciones Java mediante la integración de inteligencia
+artificial y modelos de lenguaje avanzados como GPT-3.5
 
 ## ¿Cómo funciona por dentro?
 
