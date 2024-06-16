@@ -28,5 +28,8 @@ OpenAI. https://platform.openai.com/api-keys
 
 --- 
 
+![nltk.png](assets/nltk.png)
 
-![struct.png](assets/struct-c4.png)
+---
+
+![NLP.png](assets/NLP.png)
