@@ -29,4 +29,4 @@ OpenAI. https://platform.openai.com/api-keys
 --- 
 
 
-![struct.png](assets/struct.png)
+![struct.png](assets/struct-c4.png)
